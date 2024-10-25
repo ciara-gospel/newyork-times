@@ -31,7 +31,6 @@ body {
       text-decoration: none;
       padding-right: 10px;
       cursor: pointer;
-      
       &:hover {
         background-color: antiquewhite;
       }
@@ -45,7 +44,7 @@ body {
 }
 
 .thirth-line {
-ul {
+  ul {
     display: flex;
     list-style: none;
 
