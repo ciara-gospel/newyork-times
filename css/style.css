@@ -1,3 +1,63 @@
 body {
   font-size: 12px;
+  width: 95%;
 }
+
+.first-line {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn button{
+  height: 50%;
+  border-radius: 3px;
+  border: none;
+  background-color: #2bb3f1;
+  color: #fff;
+  padding: 4px;
+  cursor: pointer;
+}
+
+.option{
+  margin-right: 20px;
+  ul {
+    display: flex;
+    list-style: none;
+    a {
+      text-align: center;
+      color: #7a7979;
+      text-decoration: none;
+      padding-right: 10px;
+      cursor: pointer;
+      &:hover {
+        background-color: antiquewhite;
+      }
+    }
+  }
+}
+
+.second-line{
+  display: flex;
+  justify-content: space-around;
+}
+
+.thirth-line {
+  ul {
+    display: flex;
+    list-style: none;
+    li{
+      justify-content: space-between;
+      padding-bottom: 3px;
+    }
+  }
+}
+
+.fourth-line {
+  display: flex;
+  text-align: center;
+  width: 50%;
+  margin: 0 23rem;
+  padding: 1rem;
+  justify-content: space-between;
+}
+
