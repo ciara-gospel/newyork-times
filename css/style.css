@@ -30,7 +30,8 @@ body {
       color: #7a7979;
       text-decoration: none;
       padding-right: 10px;
-      cursor: pointer; 
+      cursor: pointer;
+      
       &:hover {
         background-color: antiquewhite;
       }
