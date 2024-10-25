@@ -8,7 +8,7 @@ body {
   justify-content: space-between;
 }
 
-.btn button{
+.btn button {
   height: 50%;
   border-radius: 3px;
   border: none;
@@ -18,25 +18,25 @@ body {
   cursor: pointer;
 }
 
-.option{
+.option {
   margin-right: 20px;
   ul {
     display: flex;
     list-style: none;
-    a {
+  a {
       text-align: center;
       color: #7a7979;
       text-decoration: none;
       padding-right: 10px;
       cursor: pointer;
-      &:hover {
+  &:hover {
         background-color: antiquewhite;
       }
     }
   }
 }
 
-.second-line{
+.second-line {
   display: flex;
   justify-content: space-around;
 }
@@ -45,8 +45,8 @@ body {
   ul {
     display: flex;
     list-style: none;
-    li{
-      justify-content: space-between;
+    li {
+  justify-content: space-between;
       padding-bottom: 3px;
     }
   }
@@ -60,4 +60,5 @@ body {
   padding: 1rem;
   justify-content: space-between;
 }
+
 
