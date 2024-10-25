@@ -23,14 +23,13 @@ body {
   ul {
     display: flex;
     list-style: none;
-  a {
+    a {
       text-align: center;
       color: #7a7979;
       text-decoration: none;
       padding-right: 10px;
       cursor: pointer;
       &:hover {
-        
         background-color: antiquewhite;
       }
     }
@@ -46,7 +45,7 @@ body {
   ul {
     display: flex;
     list-style: none;
-li {
+    li {
       justify-content: space-between;
       padding-bottom: 3px;
     }
