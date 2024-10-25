@@ -20,9 +20,11 @@ body {
 
 .option {
   margin-right: 20px;
+
   ul {
     display: flex;
     list-style: none;
+
     a {
       text-align: center;
       color: #7a7979;
@@ -42,6 +44,7 @@ body {
 }
 
 .thirth-line {
+  
   ul {
     display: flex;
     list-style: none;
