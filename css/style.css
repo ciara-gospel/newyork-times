@@ -79,6 +79,11 @@ body {
 }
 
 .image {
-  width: 15px;
-  height: 10px;
+  width: 3%;
+  height: 2%;
+}
+
+.second-main{
+  display: grid;
+  grid-template-columns: 30% 70%;
 }
